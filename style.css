@@ -1362,6 +1362,12 @@ opacity: 1;
   border-radius: 50%;
 }
 
+@media(max-width:800px){
+  .testimonial{
+    width:85%;
+  }
+}
+
 /* contact */
 .contact-section{
   width:100%;
